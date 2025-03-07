@@ -19,9 +19,9 @@ I am currently transitioning into the **DevOps field**, learning about:
 - 📚 **Learning**: Always eager to gain new technical skills and industry knowledge.  
 
 ### 📫 How to Reach Me  
-📧 Email: [Your Email]  
-💼 LinkedIn: [Your LinkedIn Profile]  
-🌍 Portfolio: [Your Website (if available)]  
+📧 Email: tahaeltiep95@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/taha-ali-9b17a8260/
+ 
 
 ### 🎯 Fun Fact  
 I started my career in customer service and am now working towards becoming a **DevOps Engineer**—proof that passion and self-learning can drive career growth! 🚀  
